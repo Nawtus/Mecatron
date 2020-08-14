@@ -8,3 +8,8 @@
  JULIO LUAN (@JULIOLUAN) - PROGRAMMER  
  MATEUS LINS (MATEUSLINS02@GMAIL.COM) - PROGRAMMER  
  EMMANUEL PEIXOTO (@EMMANUELPEIXOTO) - SOUND DESIGN
+ 
+# Links
+ GDD: https://docs.google.com/document/d/1WjmocH2DildNPgGXc_ToLo7aBT5pooOqy0RDDSTTTus/edit?usp=sharing
+ Itch.io: https://julioluan.itch.io/mecatron
+ Behance: https://www.behance.net/gallery/92607377/MECATRON-Game-Design
